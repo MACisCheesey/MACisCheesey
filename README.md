@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Morgan Core, and I am currently in my junior year of High school here at Hiram. I am currently taking a technological class to increase my knowledge on different programming languages, such as JavaScript and Python. I am not only interested in coding, but I also have a passion for choir, theatre and graphic design, all of which I have taken classes for and look forward to continuing in the future. In terms of extracurricular activities, I partake in musical theatre as a cast member and SkillsUSA, following the career path of t-shirt design.
 <!--
 **MACisCheesey/MACisCheesey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
